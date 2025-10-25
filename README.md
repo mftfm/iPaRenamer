@@ -1,6 +1,6 @@
-# iPaRenamer
+# 📜🖊️iPaRenamer
 
-**iPaRenamer** is a simple and powerful **automatic batch renaming tool** for iOS `.ipa` files.  
+**✍🏻iPaRenamer** is a simple and powerful **automatic batch renaming tool** for iOS `.ipa` files.  
 It reads all IPA files in a folder, extracts the **app name** and **version** from each app's `Info.plist`, and renames the files in a clean, consistent format:
 
 ```
