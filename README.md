@@ -7,7 +7,14 @@ It reads all IPA files in a folder, extracts the **app name** and **version** fr
 
 AppName_v<version>.ipa
 
+
 ````
+
+## 🖼 Screenshot
+
+![iPaRenamer Screenshot](screenshot.png)
+
+---
 
 Duplicate IPAs are detected and moved to a `Duplicates/` folder to keep things organized.
 
