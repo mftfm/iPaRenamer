@@ -92,6 +92,3 @@ If you find this tool helpful and want to support development:
 
 iPaRenamer makes managing large numbers of IPA files simple and organized.
 Just **drop, run, done!**
-
-میخوای این کارو کنم؟
-```
